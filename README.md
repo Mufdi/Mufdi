@@ -27,7 +27,12 @@ My work experience was inclined towards the area of ​​tangible and intangibl
 
 Henry provided me with important technical skills to work as a developer, such as Javascript, React, Node JS, Redux, Sequelize, PostregSQL, CSS, HTML, among the most relevant.
 
-Today I am totally focused and oriented to continue promoting my career as a Full Stack Web Developer, since the path is just beginning and there is always a lot to continue learning. </p>
+Today I am totally focused and oriented to continue promoting my career as a Full Stack Web Developer, since the path is just beginning and there is always a lot to continue learning.
+
+I would love to be able to develop as a front-end, since I have discovered that it is an area that catches my attention and I enjoy it a lot. I also want to mention that my dream is to get a remote job that allows me to combine work with my free time, an equality that I value very much.
+
+I invite you to talk, and if you have a job for me... let's do it!
+</p>
 </br>
 
 <h3 align="left">Connect with me:</h3>
