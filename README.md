@@ -19,6 +19,17 @@
 
 <br />
 
+<p>A fervent enthusiast for technology, I formally started my development in the IT area at Henry as a Full Stack Web Developer, after some self-taught forays that pushed me to continue on this path.
+
+For a long time I dedicated myself to helping companies meet their business goals and standards through direct contact with customers.
+
+My work experience was inclined towards the area of ​​tangible and intangible sales, as well as the respective after-sales processes, together with customer service in person mainly. Thanks to this, I have managed to develop important soft skills, of which I highlight the willingness to work in a team, active and receptive listening combined with excellent verbal and written communication skills, adaptability to changing environments, problem management and resolution, in addition to a great leadership capacity. This last trait led me to lead a WOM branch in my wonderful time at that company.
+
+Henry provided me with important technical skills to work as a developer, such as Javascript, React, Node JS, Redux, Sequelize, PostregSQL, CSS, HTML, among the most relevant.
+
+Today I am totally focused and oriented to continue promoting my career as a Full Stack Web Developer, since the path is just beginning and there is always a lot to continue learning. </p>
+</br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mufdidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mufdidev" height="30" width="40" /></a>
