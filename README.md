@@ -1,4 +1,7 @@
 <h1 align="center">Hello world! I'm Felipe Gómez Mufdi</h1>
+<br />
+<img src= "https://raw.githubusercontent.com/Mufdi/Mufdi/main/mufdidev_gif.gif" alt="mufdidev_gif" />
+<br />
 <h3 align="center">Enthusiastic and passionate full stack developer from Chile. I am 32 years old and focused on continuing to learn and develop my programming skills. I find myself constantly working to keep improving the projects you can see here. Let's go! :rocket: </h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mufdi&label=Profile%20views&color=0e75b6&style=flat" alt="mufdi" /> </p>
@@ -48,12 +51,13 @@ I invite you to talk, and if you have a job for me... let's do it!
 <br/ >
 <h3 align="left">Stats:</h3>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mufdi&show_icons=true&locale=en&layout=compact" alt="mufdi" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mufdi&show_icons=true&locale=en" alt="mufdi" /></p>
 
 <br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mufdi&" alt="mufdi" /></p>
 
 <br />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mufdi&show_icons=true&locale=en&layout=compact" alt="mufdi" /></p>
+
 
 
