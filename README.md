@@ -10,7 +10,7 @@
 
 - My most recent contribution was as a team in [BookITech](https://bookitech-olive.vercel.app/)
 
-- I individually developed **Doggydex**
+- I individually developed [Doggydex](https://doggydex.vercel.app/)
 
 - 🌱 I’m currently learning **Typescript and React Native**
 
