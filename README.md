@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi world!</h1>
+<br />
+<img src= "https://raw.githubusercontent.com/Mufdi/Mufdi/main/mufdidev_gif.gif" alt="mufdidev_gif" />
+<br />
+<h3 align="center">Let's go! :rocket: </h3>
 
-<!--
-**Mufdi/Mufdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="right">
+  I invite you to talk, and if you have a job for me... let's do it!
+</p>
+</br>
+
+
+
+<br />
+
+
+
