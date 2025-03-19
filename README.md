@@ -1,6 +1,6 @@
 <h1 align="center">Hi world!</h1>
 <br />
-<img src= "https://raw.githubusercontent.com/Mufdi/Mufdi/main/mufdidev_gif.gif" alt="mufdidev_gif" />
+<img src= "https://github.com/Mufdi/Mufdi/blob/main/mufdidev_gif.gif" alt="mufdidev_gif" />
 <br />
 <h3 align="center">Let's go! :rocket: </h3>
 
